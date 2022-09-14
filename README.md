@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/birkan-borazan/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birkan-borazan&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birkan-borazan&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birkan-borazan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
