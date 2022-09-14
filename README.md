@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birkan-borazan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=birkan-borazan&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![](https://komarev.com/ghpvc/?username=birkan-borazan&color=green)
