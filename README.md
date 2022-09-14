@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=birkan-borazan&color=green)
 
-![Profile views](https://gpvc.arturio.dev/[birkan-borazan])
+![Profile views](https://gpvc.arturio.dev/birkan-borazan)
